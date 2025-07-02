@@ -10,9 +10,9 @@ This project takes a sentence describing your mood and generates a unique MIDI m
 
 ## Future Work
 
-1. **Support for More Emotions: Extend mood detection to include a wider range of emotional states like excitement, anxiety, or nostalgia.
-2. **User-Selectable Instruments: Allow users to choose instruments to personalize the generated music.
-3. **Longer and Structured Compositions: Generate more complex MIDI tracks with structured sections like intro, chorus, and outro.
+1. Support for More Emotions: Extend mood detection to include a wider range of emotional states like excitement, anxiety, or nostalgia.
+2. User-Selectable Instruments: Allow users to choose instruments to personalize the generated music.
+3. Longer and Structured Compositions: Generate more complex MIDI tracks with structured sections like intro, chorus, and outro.
 
 ## 🛠 Dependencies
 
